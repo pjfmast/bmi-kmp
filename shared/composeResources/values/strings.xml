@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="screen_title">Track your BMI</string>
+
+    <string name="length_label">Length in cm (%1$d - %2$d)</string>
+    <string name="length_placeholder">e.g. 175</string>
+    <string name="length_icon_content_description">Length icon</string>
+    <string name="unit_cm">cm</string>
+
+    <string name="weight_label">Weight in kg (%1$d - %2$d)</string>
+    <string name="weight_placeholder">e.g. 70</string>
+    <string name="weight_icon_content_description">Weight icon</string>
+    <string name="unit_kg">kg</string>
+
+    <string name="value_out_of_range">Value out of range (%1$s – %2$s %3$s)</string>
+
+    <string name="your_bmi">Your BMI</string>
+
+    <string name="category_underweight">Underweight</string>
+    <string name="category_underweight_desc">BMI is below 18.5 (Underweight)</string>
+    <string name="category_underweight_range">&lt; 18.5</string>
+
+    <string name="category_normal">Good BMI (Normal weight)</string>
+    <string name="category_normal_desc">BMI is between 18.5 and 24.9 (Healthy range)</string>
+    <string name="category_normal_legend">Good / Normal weight</string>
+    <string name="category_normal_range">18.5 – 24.9</string>
+
+    <string name="category_overweight">Overweight</string>
+    <string name="category_overweight_desc">BMI is between 25.0 and 29.9 (Overweight)</string>
+    <string name="category_overweight_range">25.0 – 29.9</string>
+
+    <string name="category_obese">Obesity</string>
+    <string name="category_obese_desc">BMI is 30.0 or higher (Obese)</string>
+    <string name="category_obese_legend">Obese</string>
+    <string name="category_obese_range">≥ 30.0</string>
+
+    <string name="placeholder_title">Enter your length and weight</string>
+    <string name="placeholder_subtitle">Your calculated BMI and weight status will appear here.</string>
+
+    <string name="legend_title">BMI Categories</string>
+
+    <string name="running_on_platform">Running on %1$s</string>
+</resources>

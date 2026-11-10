@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="screen_title">Bereken je BMI</string>
+
+    <string name="length_label">Lengte in cm (%1$d - %2$d)</string>
+    <string name="length_placeholder">bijv. 175</string>
+    <string name="length_icon_content_description">Lengte-icoon</string>
+    <string name="unit_cm">cm</string>
+
+    <string name="weight_label">Gewicht in kg (%1$d - %2$d)</string>
+    <string name="weight_placeholder">bijv. 70</string>
+    <string name="weight_icon_content_description">Gewicht-icoon</string>
+    <string name="unit_kg">kg</string>
+
+    <string name="value_out_of_range">Waarde buiten bereik (%1$s – %2$s %3$s)</string>
+
+    <string name="your_bmi">Jouw BMI</string>
+
+    <string name="category_underweight">Ondergewicht</string>
+    <string name="category_underweight_desc">BMI is lager dan 18.5 (Ondergewicht)</string>
+    <string name="category_underweight_range">&lt; 18.5</string>
+
+    <string name="category_normal">Gezond BMI (Normaal gewicht)</string>
+    <string name="category_normal_desc">BMI ligt tussen 18.5 en 24.9 (Gezond gewicht)</string>
+    <string name="category_normal_legend">Gezond / Normaal gewicht</string>
+    <string name="category_normal_range">18.5 – 24.9</string>
+
+    <string name="category_overweight">Overgewicht</string>
+    <string name="category_overweight_desc">BMI ligt tussen 25.0 en 29.9 (Overgewicht)</string>
+    <string name="category_overweight_range">25.0 – 29.9</string>
+
+    <string name="category_obese">Obesitas</string>
+    <string name="category_obese_desc">BMI is 30.0 of hoger (Obesitas)</string>
+    <string name="category_obese_legend">Obesitas</string>
+    <string name="category_obese_range">≥ 30.0</string>
+
+    <string name="placeholder_title">Voer je lengte en gewicht in</string>
+    <string name="placeholder_subtitle">Je berekende BMI en gewichtsstatus verschijnen hier.</string>
+
+    <string name="legend_title">BMI-categorieën</string>
+
+    <string name="running_on_platform">Draait op %1$s</string>
+</resources>
